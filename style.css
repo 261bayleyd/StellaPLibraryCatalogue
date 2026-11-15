@@ -30,9 +30,11 @@ body {
 }
 #frontelements {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 15px;
+    gap: 20px;
     transform: scale(1.5);
     transform-origin: center;
+    margin-top: 100px;
 }
