@@ -1,5 +1,14 @@
 let searchType = document.getElementById("searchType").value
 let searchText = document.getElementById("searchText").value
+let dev
+if (currentHost == "localhost" || currentHost == "127.0.0.1"|| currentHost == "curly-sniffle-pjpwgrp4jgr6h7x75.github.dev"){
+  dev = true
+  console.log("Dev mode enabled")
+}
+else{
+  dev = false
+  console.log("Prod mode enabled")
+}
 let books
 pulldata()
 async function pulldata() {
@@ -8,12 +17,12 @@ async function pulldata() {
 async function fetchOtherData() {
     try { 
     let response
-    // if (dev == true){
+    if (dev == true){
     response = await fetch('/Stellas_Library_Catalogue.json')    // check if the HTTP status code is 200
-    // }
-    // else{
-    // response = await fetch('/StellaPLibraryCatalogue/Stellas_Library_Catalogue.json')    // check if the HTTP status code is 200
-    // }
+    }
+    else{
+    response = await fetch('/StellaPLibraryCatalogue/Stellas_Library_Catalogue.json')    // check if the HTTP status code is 200
+    }
     if (!response.ok) {
     throw new Error(`HTTP error, Status: ${response.status}`)
     }
