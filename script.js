@@ -1,6 +1,10 @@
 let searchType = document.getElementById("searchType").value
 let searchText = document.getElementById("searchText").value
-let books = await fetchOtherData()
+let books
+pulldata()
+async function pulldata() {
+    books = await fetchOtherData()
+}
 async function fetchOtherData() {
     try { 
     let response
@@ -20,7 +24,7 @@ async function fetchOtherData() {
     console.error('Fetch failed:', error) // Handles network errors
     }
  }
-async function searchBooks(searchMethod, search) {
+function searchBooks(searchMethod, search) {
     let result = books.filter(book =>
         String(book[searchMethod] ?? "")
             .toLowerCase()
@@ -30,12 +34,31 @@ async function searchBooks(searchMethod, search) {
     return result
 }
 function Search(){
-            let SearchResult
-            row.appendChild(NumberElement)
-            row.appendChild(NameElement)
-            row.appendChild(OriginElement)
-            row.appendChild(DestinationnElement)
-            row.appendChild(NextstopElement)
-            row.className = "row"
-            stops.appendChild(row)
+            searchType = document.getElementById("searchType").value
+            searchText = document.getElementById("searchText").value
+            stops.style.display = 'block'
+            let SearchResult = searchBooks(searchType,searchText)
+            for (let i = 0; i < SearchResult.length; i++) {
+                console.log("Creating row", i)
+                let book = SearchResult[i]
+                let row = document.createElement("div")
+                let TitleElement = document.createElement("span")
+                TitleElement.innerHTML = book["Title"]
+                let AuthorElement = document.createElement("span")
+                AuthorElement.innerHTML = book["Author"]
+                let ShelfElement = document.createElement("span")
+                ShelfElement.innerHTML = book["Shelf"]
+                let SectionElement = document.createElement("span")
+                SectionElement.innerHTML = book["Section"]
+                let BookIDElement = document.createElement("span")
+                BookIDElement.innerHTML = book["Book ID"]
+                row.appendChild(TitleElement)
+                row.appendChild(AuthorElement)
+                row.appendChild(ShelfElement)
+                row.appendChild(SectionElement)
+                row.appendChild(BookIDElement)
+                row.className = "row"
+                row.style.display = "grid"
+                stops.appendChild(row)
+            }
 }
