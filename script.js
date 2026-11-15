@@ -1,5 +1,6 @@
 let searchType = document.getElementById("searchType").value
 let searchText = document.getElementById("searchText").value
+let currentHost = window.location.hostname;
 let dev
 if (currentHost == "localhost" || currentHost == "127.0.0.1"|| currentHost == "curly-sniffle-pjpwgrp4jgr6h7x75.github.dev"){
   dev = true
