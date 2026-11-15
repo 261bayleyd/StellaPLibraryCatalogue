@@ -30,7 +30,7 @@ async function searchBooks(searchMethod, search) {
     return result
 }
 function Search(){
-            let SearchResult = searchBooks(searchType, searchText)
+            let SearchResult
             row.appendChild(NumberElement)
             row.appendChild(NameElement)
             row.appendChild(OriginElement)
