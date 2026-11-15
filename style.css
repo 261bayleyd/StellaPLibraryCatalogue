@@ -18,3 +18,21 @@ html {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
   }
+body {
+    background-image: linear-gradient(
+        rgba(255, 255, 255, 0.5),
+        rgba(255, 255, 255, 0.5)
+    ), url("https://i.pinimg.com/736x/26/2c/9e/262c9efdd21603fc14087e205af7255b.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#frontelements {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    transform: scale(1.5);
+    transform-origin: center;
+}
