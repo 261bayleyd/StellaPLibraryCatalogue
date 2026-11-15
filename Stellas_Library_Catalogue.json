@@ -1,0 +1,1633 @@
+[
+  {
+    "Book ID": "A101",
+    "Title": "San Francisco 2025",
+    "Author": "The Bombers",
+    "Shelf": "A1",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A102",
+    "Title": "The Last Song",
+    "Author": "Nicholas Sparks",
+    "Shelf": "A1",
+    "Section": "Sparks"
+  },
+  {
+    "Book ID": "A103",
+    "Title": "The Wedding",
+    "Author": "Nicholas Sparks",
+    "Shelf": "A1",
+    "Section": "Sparks"
+  },
+  {
+    "Book ID": "A104",
+    "Title": "The Notebook",
+    "Author": "Nicholas Sparks",
+    "Shelf": "A1",
+    "Section": "Sparks"
+  },
+  {
+    "Book ID": "A105",
+    "Title": "The Hunger Games",
+    "Author": "Suzanne Collins",
+    "Shelf": "A1",
+    "Section": "Hunger Games"
+  },
+  {
+    "Book ID": "A106",
+    "Title": "The Ballad of Songbirds and Snakes",
+    "Author": "Suzanne Collins",
+    "Shelf": "A1",
+    "Section": "Hunger Games"
+  },
+  {
+    "Book ID": "A107",
+    "Title": "Sunrise of the Reaping",
+    "Author": "Suzanne Collins",
+    "Shelf": "A1",
+    "Section": "Hunger Games"
+  },
+  {
+    "Book ID": "A108",
+    "Title": "The Inheritance Games",
+    "Author": "Jennifer Lynn Barnes",
+    "Shelf": "A1",
+    "Section": "Inheritance Games"
+  },
+  {
+    "Book ID": "A109",
+    "Title": "The Hawthorne Legacy",
+    "Author": "Jennifer Lynn Barnes",
+    "Shelf": "A1",
+    "Section": "Inheritance Games"
+  },
+  {
+    "Book ID": "A110",
+    "Title": "The Hawthorne Legacy",
+    "Author": "Jennifer Lynn Barnes",
+    "Shelf": "A1",
+    "Section": "Inheritance Games"
+  },
+  {
+    "Book ID": "A111",
+    "Title": "The Brothers Hawthorne",
+    "Author": "Jennifer Lynn Barnes",
+    "Shelf": "A1",
+    "Section": "Inheritance Games"
+  },
+  {
+    "Book ID": "A201",
+    "Title": "The Land of Stories: The Wishing Spell",
+    "Author": "Chris Colfer",
+    "Shelf": "A2",
+    "Section": "Chris Colfer"
+  },
+  {
+    "Book ID": "A202",
+    "Title": "The Land of Stories: The Enchantress Returns",
+    "Author": "Chris Colfer",
+    "Shelf": "A2",
+    "Section": "Chris Colfer"
+  },
+  {
+    "Book ID": "A203",
+    "Title": "The Land of Stories: A Grimm Warning",
+    "Author": "Chris Colfer",
+    "Shelf": "A2",
+    "Section": "Chris Colfer"
+  },
+  {
+    "Book ID": "A204",
+    "Title": "The Land of Stories: Beyond the Kingdoms",
+    "Author": "Chris Colfer",
+    "Shelf": "A2",
+    "Section": "Chris Colfer"
+  },
+  {
+    "Book ID": "A205",
+    "Title": "A Tale of Magic",
+    "Author": "Chris Colfer",
+    "Shelf": "A2",
+    "Section": "Chris Colfer"
+  },
+  {
+    "Book ID": "A206",
+    "Title": "A Tale of Witchcraft",
+    "Author": "Chris Colfer",
+    "Shelf": "A2",
+    "Section": "Chris Colfer"
+  },
+  {
+    "Book ID": "A207",
+    "Title": "A Tale of Sorcery",
+    "Author": "Chris Colfer",
+    "Shelf": "A2",
+    "Section": "Chris Colfer"
+  },
+  {
+    "Book ID": "A208",
+    "Title": "Inkdeath",
+    "Author": "Cornella Funke",
+    "Shelf": "A2",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A309",
+    "Title": "The Mysterious Benedict Society",
+    "Author": "Trenton Lee Stewart",
+    "Shelf": "A3",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "A310",
+    "Title": "The Road to Little Dribbling",
+    "Author": "Bill Bryson",
+    "Shelf": "A3",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "B401",
+    "Title": "Warriors - The New Prophecy 1: Midnight",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B402",
+    "Title": "Warriors - The New Prophecy 2: Moonrise",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B403",
+    "Title": "Warriors - The New Prophecy 3: Dawn",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B404",
+    "Title": "Warriors - The New Prophecy 4: Starlight",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B405",
+    "Title": "Warriors - The New Prophecy 5: Twilight",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B406",
+    "Title": "Warriors - The New Prophecy 6: Sunset",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B407",
+    "Title": "Warriors - Power of Three 1: The Sight",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B408",
+    "Title": "Warriors - Power of Three 2: Dark River",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B409",
+    "Title": "Warriors - Power of Three 3: Outcast",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B410",
+    "Title": "Warriors - Power of Three 4: Eclipse",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B411",
+    "Title": "Warriors - Power of Three 5: Long Shadows",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B412",
+    "Title": "Warriors - Power of Three 6: Sunrise",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B413",
+    "Title": "Warriors - Omen of the Stars 1: The Fourth Apprentice",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B414",
+    "Title": "Warriors - Omen of the Stars 2: Fading Echoes",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B415",
+    "Title": "Warriors - Omen of the Stars 3: Night Whispers",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B416",
+    "Title": "Warriors - Omen of the Stars 4: Sign of the Moon",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B417",
+    "Title": "Warriors - Super Edition: Bramblestar's Storm",
+    "Author": "Erin Hunter",
+    "Shelf": "B4",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B501",
+    "Title": "Warriors - Omen of the Stars 5: The Forgotten Warrior",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B502",
+    "Title": "Warriors - Omen of the Stars 6: The Last Hope",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B503",
+    "Title": "Warriors - Dawn of the Clans 1: The Sun Trail",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B504",
+    "Title": "Warriors - Dawn of the Clans 2: Thunder Rising",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B505",
+    "Title": "Warriors - Dawn of the Clans 3: The First Battle",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B506",
+    "Title": "Warriors - Dawn of the Clans 4: The Blazing Star",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B507",
+    "Title": "Warriors - Dawn of the Clans 5: A Forest Divided",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B508",
+    "Title": "Warriors - Dawn of the Clans 6: Path of Stars",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B509",
+    "Title": "Warriors - A Vision of Shadows 1: The Apprentice's Quest",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B510",
+    "Title": "Warriors - A Vision of Shadows 2: Thunder and Shadow",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B511",
+    "Title": "Warriors - A Vision of Shadows 3: Shattered Sky",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B512",
+    "Title": "Warriors - A Vision of Shadows 4: Darkest Night",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B513",
+    "Title": "Warriors - A Vision of Shadows 5: River of Fire",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B514",
+    "Title": "Warriors - A Vision of Shadows 6: The Raging Storm",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B515",
+    "Title": "Warriors - The Broker Code 1: Lost Stars",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B516",
+    "Title": "Warriors - The Broker Code 2: The Silent Thaw",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B517",
+    "Title": "Warriors - The Broker Code 3: Veil of Shadows",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B518",
+    "Title": "Warriors - The Broker Code 4: Darkness Within",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B519",
+    "Title": "Warriors - The Broker Code 5: The Place of No Stars",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B520",
+    "Title": "Warriors - The Broker Code 6: A Light in the Mist",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B521",
+    "Title": "Warriors - Super Edition: Tigerheart's Shadow",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "B522",
+    "Title": "Warriors - Super Edition: Squirrelflight's Hope",
+    "Author": "Erin Hunter",
+    "Shelf": "B5",
+    "Section": "Warriors"
+  },
+  {
+    "Book ID": "A401",
+    "Title": "Dorks in New York",
+    "Author": "Dan Gutman",
+    "Shelf": "A4",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A402",
+    "Title": "Pets, Vets, and Marty Howard",
+    "Author": "Joan Carris",
+    "Shelf": "A4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "A403",
+    "Title": "Les Cles Du Temps",
+    "Author": "Bulle Souriceau",
+    "Shelf": "A4",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A404",
+    "Title": "Ces onuments qui racontent Paris",
+    "Author": "Jean Daly",
+    "Shelf": "A4",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A405",
+    "Title": "Kick Me",
+    "Author": "Paul Feig",
+    "Shelf": "A4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "A406",
+    "Title": "Prep",
+    "Author": "Curtis Sittenfeld",
+    "Shelf": "A4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "A407",
+    "Title": "The Giver",
+    "Author": "Lois Lowry",
+    "Shelf": "A4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "A408",
+    "Title": "Marley Dias Gets It Done And So Can You!",
+    "Author": "Marley Dias",
+    "Shelf": "A4",
+    "Section": "Women Empowerment"
+  },
+  {
+    "Book ID": "A409",
+    "Title": "Good Night Stories for Rebel Girls",
+    "Author": "Elena Favilli, Francesca Cavallo",
+    "Shelf": "A4",
+    "Section": "Women Empowerment"
+  },
+  {
+    "Book ID": "A410",
+    "Title": "Rebel Girls Champions",
+    "Author": "Elena Favilli, Francesca Cavallo",
+    "Shelf": "A4",
+    "Section": "Women Empowerment"
+  },
+  {
+    "Book ID": "A411",
+    "Title": "The Hill We Climb",
+    "Author": "Amanda Gordman",
+    "Shelf": "A4",
+    "Section": "Women Empowerment"
+  },
+  {
+    "Book ID": "A412",
+    "Title": "The Worst-Case Secenario Survial Handbook: Junior Edition",
+    "Author": "David Borgenicht and Robin Epstein",
+    "Shelf": "A4",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A413",
+    "Title": "The Worst-Case Secenario Survial Handbook",
+    "Author": "David Borgenicht and Robin Epstein",
+    "Shelf": "A4",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A414",
+    "Title": "My Roomate from Hell",
+    "Author": "Cale Dietrich",
+    "Shelf": "A4",
+    "Section": "Romance"
+  },
+  {
+    "Book ID": "A415",
+    "Title": "Summer Girls",
+    "Author": "Jennifer Dugan",
+    "Shelf": "A4",
+    "Section": "Romance"
+  },
+  {
+    "Book ID": "A416",
+    "Title": "The Summer I Turned Pretty",
+    "Author": "Jenny Han",
+    "Shelf": "A4",
+    "Section": "Romance"
+  },
+  {
+    "Book ID": "A417",
+    "Title": "The Egypt Game",
+    "Author": "Zilpha Keattey Snyder",
+    "Shelf": "A4",
+    "Section": "Romance"
+  },
+  {
+    "Book ID": "A318",
+    "Title": "A Wrinkle in Time",
+    "Author": "Madeleine L'engle",
+    "Shelf": "A3",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "B201",
+    "Title": "Keeper of the Lost Cities 1",
+    "Author": "Shannon Messenger",
+    "Shelf": "B2",
+    "Section": "Keeper of the Lost Cities"
+  },
+  {
+    "Book ID": "B202",
+    "Title": "Keeper of the Lost Cities 2: Exile",
+    "Author": "Shannon Messenger",
+    "Shelf": "B2",
+    "Section": "Keeper of the Lost Cities"
+  },
+  {
+    "Book ID": "B203",
+    "Title": "Keeper of the Lost Cities 3: Everblaze",
+    "Author": "Shannon Messenger",
+    "Shelf": "B2",
+    "Section": "Keeper of the Lost Cities"
+  },
+  {
+    "Book ID": "B204",
+    "Title": "Keeper of the Lost Cities 4: Neverseen",
+    "Author": "Shannon Messenger",
+    "Shelf": "B2",
+    "Section": "Keeper of the Lost Cities"
+  },
+  {
+    "Book ID": "B205",
+    "Title": "Keeper of the Lost Cities 5: Lodestar",
+    "Author": "Shannon Messenger",
+    "Shelf": "B2",
+    "Section": "Keeper of the Lost Cities"
+  },
+  {
+    "Book ID": "B206",
+    "Title": "Keeper of the Lost Cities 6: Nightfall",
+    "Author": "Shannon Messenger",
+    "Shelf": "B2",
+    "Section": "Keeper of the Lost Cities"
+  },
+  {
+    "Book ID": "A301",
+    "Title": "Mini Kawaii Doodle Class",
+    "Author": "Zaninab Khan",
+    "Shelf": "A3",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A302",
+    "Title": "The Great Big Book of Tomorrow",
+    "Author": "Tom Tomorrow",
+    "Shelf": "A3",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A303",
+    "Title": "101 Great Science Experiments",
+    "Author": "Neil Ardley",
+    "Shelf": "A3",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A304",
+    "Title": "The Bourbon Street Band is Back",
+    "Author": "Shankman and O'Neal",
+    "Shelf": "A3",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A305",
+    "Title": "A Big Day for a Little Dog",
+    "Author": "Susan York",
+    "Shelf": "A3",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A306",
+    "Title": "The Word Collector",
+    "Author": "Peter H. Reynolds",
+    "Shelf": "A3",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A307",
+    "Title": "Learning To Ski With Mr. Magee",
+    "Author": "Chris Van Dusen",
+    "Shelf": "A3",
+    "Section": "Christmas"
+  },
+  {
+    "Book ID": "A308",
+    "Title": "The Elf on the Shelf",
+    "Author": "Aebersold and Bell",
+    "Shelf": "A3",
+    "Section": "Christmas"
+  },
+  {
+    "Book ID": "A311",
+    "Title": "There was a Cold Lady Who Swallowed Some Snow",
+    "Author": "Lucille Colandro",
+    "Shelf": "A3",
+    "Section": "Christmas"
+  },
+  {
+    "Book ID": "A312",
+    "Title": "The Night Before Christmas",
+    "Author": "Moore and Hobbie",
+    "Shelf": "A3",
+    "Section": "Christmas"
+  },
+  {
+    "Book ID": "A313",
+    "Title": "The Night Before Christmas",
+    "Author": "Moore and Lobel",
+    "Shelf": "A3",
+    "Section": "Christmas"
+  },
+  {
+    "Book ID": "A314",
+    "Title": "The Wizard of Oz - Youth Script",
+    "Author": "Concord Theatricals",
+    "Shelf": "A3",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A315",
+    "Title": "The Care and Keeping of You 1",
+    "Author": "Schaefer, Natterson, Masse",
+    "Shelf": "A3",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "A316",
+    "Title": "Scary Stories 3",
+    "Author": "Schwartz, Gammell",
+    "Shelf": "A3",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "A317",
+    "Title": "Anne of Green Gables",
+    "Author": "Lucy Maud Montgomery",
+    "Shelf": "A3",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "A319",
+    "Title": "Black Beauty",
+    "Author": "Anna Sewell",
+    "Shelf": "A3",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "A320",
+    "Title": "Merriam-Webster's Pocket Dictionary",
+    "Author": "Merriam-Webster",
+    "Shelf": "A3",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "B101",
+    "Title": "They're Poets and They Know It!",
+    "Author": "Scholastic",
+    "Shelf": "B1",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "B102",
+    "Title": "Falling Up",
+    "Author": "Silverstein, Harper Collins",
+    "Shelf": "B1",
+    "Section": "Silverstein"
+  },
+  {
+    "Book ID": "B103",
+    "Title": "Where the Sidewalk Ends",
+    "Author": "Silverstein, Harper & Row",
+    "Shelf": "B1",
+    "Section": "Silverstein"
+  },
+  {
+    "Book ID": "B104",
+    "Title": "The Giving Tree",
+    "Author": "Silverstein, Harper Collins",
+    "Shelf": "B1",
+    "Section": "Silverstein"
+  },
+  {
+    "Book ID": "B105",
+    "Title": "King Arthur and His Knights of the Round Table",
+    "Author": "Lancelyn Green",
+    "Shelf": "B1",
+    "Section": "Classics"
+  },
+  {
+    "Book ID": "B106",
+    "Title": "Rebecca",
+    "Author": "Daphne Du Maurier",
+    "Shelf": "B1",
+    "Section": "Classics"
+  },
+  {
+    "Book ID": "B107",
+    "Title": "Emma",
+    "Author": "Jane Austen",
+    "Shelf": "B1",
+    "Section": "Classics"
+  },
+  {
+    "Book ID": "B108",
+    "Title": "Sense and Sensibility",
+    "Author": "Jane Austen",
+    "Shelf": "B1",
+    "Section": "Classics"
+  },
+  {
+    "Book ID": "B109",
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Shelf": "B1",
+    "Section": "Classics"
+  },
+  {
+    "Book ID": "B110",
+    "Title": "Jane Austen's Pride and Prejudice",
+    "Author": "Austen, Woodfine, Ceulemans",
+    "Shelf": "B1",
+    "Section": "Classics"
+  },
+  {
+    "Book ID": "B301",
+    "Title": "It's Not The End of the World",
+    "Author": "Judy Blume",
+    "Shelf": "B3",
+    "Section": "Judy Blume"
+  },
+  {
+    "Book ID": "B302",
+    "Title": "The Pain and The Great One",
+    "Author": "Judy Blume",
+    "Shelf": "B3",
+    "Section": "Judy Blume"
+  },
+  {
+    "Book ID": "B303",
+    "Title": "Otherwise Known As Sheila The Great",
+    "Author": "Judy Blume",
+    "Shelf": "B3",
+    "Section": "Judy Blume"
+  },
+  {
+    "Book ID": "B304",
+    "Title": "Then Again, Maybe I Won't",
+    "Author": "Judy Blume",
+    "Shelf": "B3",
+    "Section": "Judy Blume"
+  },
+  {
+    "Book ID": "B305",
+    "Title": "Tales of a Fourth Grade Nothing",
+    "Author": "Judy Blume",
+    "Shelf": "B3",
+    "Section": "Judy Blume"
+  },
+  {
+    "Book ID": "B306",
+    "Title": "Iggie's House",
+    "Author": "Judy Blume",
+    "Shelf": "B3",
+    "Section": "Judy Blume"
+  },
+  {
+    "Book ID": "B307",
+    "Title": "Superfudge",
+    "Author": "Judy Blume",
+    "Shelf": "B3",
+    "Section": "Judy Blume"
+  },
+  {
+    "Book ID": "B308",
+    "Title": "Blubber",
+    "Author": "Judy Blume",
+    "Shelf": "B3",
+    "Section": "Judy Blume"
+  },
+  {
+    "Book ID": "B309",
+    "Title": "Charlie and the Great Glass Elevator",
+    "Author": "Roald Dahl",
+    "Shelf": "B3",
+    "Section": "Roald Dahl"
+  },
+  {
+    "Book ID": "B310",
+    "Title": "Charlie and the Chocolate Factory",
+    "Author": "Roald Dahl",
+    "Shelf": "B3",
+    "Section": "Roald Dahl"
+  },
+  {
+    "Book ID": "B311",
+    "Title": "The Witches",
+    "Author": "Roald Dahl",
+    "Shelf": "B3",
+    "Section": "Roald Dahl"
+  },
+  {
+    "Book ID": "B312",
+    "Title": "The Magic Finger",
+    "Author": "Roald Dahl",
+    "Shelf": "B3",
+    "Section": "Roald Dahl"
+  },
+  {
+    "Book ID": "B313",
+    "Title": "The Phantom Toolbooth",
+    "Author": "Norton Juster ",
+    "Shelf": "B3",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "B314",
+    "Title": "More Rootabaga Stories",
+    "Author": "Carl Sandburg",
+    "Shelf": "B3",
+    "Section": "Novels "
+  },
+  {
+    "Book ID": "B315",
+    "Title": "Rootabaga Stories",
+    "Author": "Carl Sandburg",
+    "Shelf": "B3",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "B316",
+    "Title": "The Trumpeter of Krakow",
+    "Author": "Eric P. Kelly",
+    "Shelf": "B3",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "B317",
+    "Title": "It's Heaven to be Seven",
+    "Author": "Scholastic",
+    "Shelf": "B3",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "B318",
+    "Title": "The Wimpy Kid Do-It-Yourself Book",
+    "Author": "Jeff Kinney",
+    "Shelf": "B3",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "C101",
+    "Title": "The Advenures of TiinTin: The Castafiore Emerald",
+    "Author": "Hergé",
+    "Shelf": "C1",
+    "Section": "Hergé"
+  },
+  {
+    "Book ID": "C102",
+    "Title": "The Advenures of TiinTin: TinTin in America",
+    "Author": "Hergé",
+    "Shelf": "C1",
+    "Section": "Hergé"
+  },
+  {
+    "Book ID": "C103",
+    "Title": "The Advenures of TiinTin: Prisoners of the Sun",
+    "Author": "Hergé",
+    "Shelf": "C1",
+    "Section": "Hergé"
+  },
+  {
+    "Book ID": "C104",
+    "Title": "The Advenures of TiinTin: The Black Island",
+    "Author": "Hergé",
+    "Shelf": "C1",
+    "Section": "Hergé"
+  },
+  {
+    "Book ID": "C105",
+    "Title": "The Advenures of TiinTin: Tintin and the Picaros",
+    "Author": "Hergé",
+    "Shelf": "C1",
+    "Section": "Hergé"
+  },
+  {
+    "Book ID": "C106",
+    "Title": "The Advenures of TiinTin: TinTin in Tibet",
+    "Author": "Hergé",
+    "Shelf": "C1",
+    "Section": "Hergé"
+  },
+  {
+    "Book ID": "C107",
+    "Title": "The Advenures of TiinTin: King Ottokar's Sceptre",
+    "Author": "Hergé",
+    "Shelf": "C1",
+    "Section": "Hergé"
+  },
+  {
+    "Book ID": "C108",
+    "Title": "The Advenures of TiinTin: The Castafiore Emerald",
+    "Author": "Hergé",
+    "Shelf": "C1",
+    "Section": "Hergé"
+  },
+  {
+    "Book ID": "C109",
+    "Title": "The Authoritative Calvin and Hobbes",
+    "Author": "Bill Watterson",
+    "Shelf": "C1",
+    "Section": "Calvin and Hobbes"
+  },
+  {
+    "Book ID": "C110",
+    "Title": "Calvin and Hobbes",
+    "Author": "Bill Watterson",
+    "Shelf": "C1",
+    "Section": "Calvin and Hobbes"
+  },
+  {
+    "Book ID": "C111",
+    "Title": "Something Under the Bed is Drooling",
+    "Author": "Bill Watterson",
+    "Shelf": "C1",
+    "Section": "Calvin and Hobbes"
+  },
+  {
+    "Book ID": "C112",
+    "Title": "Garfield Fat Cat 3-Pack Volume 9",
+    "Author": "Jim Davis",
+    "Shelf": "C1",
+    "Section": "Garfield"
+  },
+  {
+    "Book ID": "C113",
+    "Title": "Garfield Fat Cat 3-Pack Volume 3",
+    "Author": "Jim Davis",
+    "Shelf": "C1",
+    "Section": "Garfield"
+  },
+  {
+    "Book ID": "C114",
+    "Title": "Garfield Fat Cat 3-Pack Volume 21",
+    "Author": "Jim Davis",
+    "Shelf": "C1",
+    "Section": "Garfield"
+  },
+  {
+    "Book ID": "C115",
+    "Title": "Garfield Fat Cat 3-Pack Volume 5",
+    "Author": "Jim Davis",
+    "Shelf": "C1",
+    "Section": "Garfield"
+  },
+  {
+    "Book ID": "C116",
+    "Title": "Garfield Fat Cat 3-Pack Volume 1",
+    "Author": "Jim Davis",
+    "Shelf": "C1",
+    "Section": "Garfield"
+  },
+  {
+    "Book ID": "C117",
+    "Title": "Garfield Fat Cat 3-Pack Volume 6",
+    "Author": "Jim Davis",
+    "Shelf": "C1",
+    "Section": "Garfield"
+  },
+  {
+    "Book ID": "C118",
+    "Title": "The Far Side Gallery 3",
+    "Author": "Gary Larson",
+    "Shelf": "C1",
+    "Section": "Graphic Novels"
+  },
+  {
+    "Book ID": "C119",
+    "Title": "The Far Side Gallery 2",
+    "Author": "Gary Larson",
+    "Shelf": "C1",
+    "Section": "Graphic Novels"
+  },
+  {
+    "Book ID": "C120",
+    "Title": "Hazardous Tales: One Dead Spy",
+    "Author": "Nathan Hale",
+    "Shelf": "C1",
+    "Section": "Graphic Novels"
+  },
+  {
+    "Book ID": "C121",
+    "Title": "I Survived: The Caliofrnia Wildfires, 2018",
+    "Author": "Lauren Tarshis",
+    "Shelf": "C1",
+    "Section": "Graphic Novels"
+  },
+  {
+    "Book ID": "C122",
+    "Title": "Break",
+    "Author": "Kayla Miller",
+    "Shelf": "C1",
+    "Section": "Graphic Novels"
+  },
+  {
+    "Book ID": "C123",
+    "Title": "Drama",
+    "Author": "Raina Telgemeier",
+    "Shelf": "C1",
+    "Section": "Telgemeier"
+  },
+  {
+    "Book ID": "C124",
+    "Title": "Ghosts",
+    "Author": "Raina Telgemeier",
+    "Shelf": "C1",
+    "Section": "Telgemeier"
+  },
+  {
+    "Book ID": "C125",
+    "Title": "Smile",
+    "Author": "Raina Telgemeier",
+    "Shelf": "C1",
+    "Section": "Telgemeier"
+  },
+  {
+    "Book ID": "C126",
+    "Title": "Sisters",
+    "Author": "Raina Telgemeier",
+    "Shelf": "C1",
+    "Section": "Telgemeier"
+  },
+  {
+    "Book ID": "C127",
+    "Title": "Garfield gains weight",
+    "Author": "Jim Davis",
+    "Shelf": "C1",
+    "Section": "Garfield"
+  },
+  {
+    "Book ID": "C401",
+    "Title": "A Celebration of Poets",
+    "Author": "Grades K-6 Fall 2023 + Stella Popescul",
+    "Shelf": "C4",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "C402",
+    "Title": "The Jesus Storybook",
+    "Author": "Sally Lloyd-Jones",
+    "Shelf": "C4",
+    "Section": "Bible"
+  },
+  {
+    "Book ID": "C403",
+    "Title": "Song for a Whale",
+    "Author": "Lynne Kelly",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C404",
+    "Title": "I Know You're Lying ",
+    "Author": "Daphne Benedis-Grab",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C405",
+    "Title": "Island of the Blue Dolphins",
+    "Author": "Scott O'Dell",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C406",
+    "Title": "The Fault in Our Stars",
+    "Author": "John Green",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C407",
+    "Title": "Pride and Protest",
+    "Author": "Nikki Payne",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C408",
+    "Title": "Wish Girl",
+    "Author": "Nikki Loftin",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C409",
+    "Title": "First Term at Malory Towers",
+    "Author": "Guid Blyton",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C410",
+    "Title": "How To Write A Play",
+    "Author": "David Dubczak",
+    "Shelf": "C4",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "C411",
+    "Title": "Little Moments of Happiness",
+    "Author": "Elisabeth Brami, Philippe Bertrand",
+    "Shelf": "C4",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "C412",
+    "Title": "Pigture Perfect",
+    "Author": "Jenny Goebel",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C413",
+    "Title": "Beforever - Kit 1934",
+    "Author": "Valerie Tripp",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C414",
+    "Title": "J.D. and the Great Barber Battle",
+    "Author": "J. Dillard",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C415",
+    "Title": "Enola Holmes-The Case of the Missing Marquess",
+    "Author": "Nancy Springer",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C416",
+    "Title": "Crenshaw",
+    "Author": "Katherine Applegate",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C417",
+    "Title": "Odder",
+    "Author": "Katherine Applegate",
+    "Shelf": "C4",
+    "Section": "Novels"
+  },
+  {
+    "Book ID": "C418",
+    "Title": "Hooky-Volume 3",
+    "Author": "Miriam Bonastre Tur",
+    "Shelf": "C4",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "C301",
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Author": "J.K. Rowling",
+    "Shelf": "C3",
+    "Section": "J.K. Rowling"
+  },
+  {
+    "Book ID": "C302",
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Author": "J.K. Rowling",
+    "Shelf": "C3",
+    "Section": "J.K. Rowling"
+  },
+  {
+    "Book ID": "C303",
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Author": "J.K. Rowling",
+    "Shelf": "C3",
+    "Section": "J.K. Rowling"
+  },
+  {
+    "Book ID": "C304",
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Author": "J.K. Rowling",
+    "Shelf": "C3",
+    "Section": "J.K. Rowling"
+  },
+  {
+    "Book ID": "C305",
+    "Title": "The Tales of Beedle the Bard",
+    "Author": "J.K. Rowling",
+    "Shelf": "C3",
+    "Section": "J.K. Rowling"
+  },
+  {
+    "Book ID": "C306",
+    "Title": "Fantastic Beasts and Where to find them",
+    "Author": "J.K. Rowling",
+    "Shelf": "C3",
+    "Section": "J.K. Rowling"
+  },
+  {
+    "Book ID": "C307",
+    "Title": "Quidditch Through the Ages",
+    "Author": "J.K. Rowling",
+    "Shelf": "C3",
+    "Section": "J.K. Rowling"
+  },
+  {
+    "Book ID": "C308",
+    "Title": "Harry Potter and the Cursed Chid",
+    "Author": "J.K. Rowling",
+    "Shelf": "C3",
+    "Section": "J.K. Rowling"
+  },
+  {
+    "Book ID": "C309",
+    "Title": "Harry Potter Spell and Potion Book",
+    "Author": "Scholastic",
+    "Shelf": "C3",
+    "Section": "J.K. Rowling"
+  },
+  {
+    "Book ID": "C310",
+    "Title": "Believe it or not! Mind Blown",
+    "Author": "Ripley Publishing",
+    "Shelf": "C3",
+    "Section": "Believe it or Not!"
+  },
+  {
+    "Book ID": "C311",
+    "Title": "Believe it or not! Toatally Bizarre",
+    "Author": "Ripley Publishing",
+    "Shelf": "C3",
+    "Section": "Believe it or Not!"
+  },
+  {
+    "Book ID": "C312",
+    "Title": "286 Questions, Quotes, Trivia and More about Taylor Swift",
+    "Author": "Michelle Jones",
+    "Shelf": "C3",
+    "Section": "N/A"
+  },
+  {
+    "Book ID": "C313",
+    "Title": "Saint Gabriel 2021-2022",
+    "Author": "Saint Gabriel",
+    "Shelf": "C3",
+    "Section": "Yearbooks"
+  },
+  {
+    "Book ID": "C314",
+    "Title": "Saint Gabriel 2022-2023",
+    "Author": "Saint Gabriel",
+    "Shelf": "C3",
+    "Section": "Yearbooks"
+  },
+  {
+    "Book ID": "C315",
+    "Title": "Saint Gabriel 2023-2024",
+    "Author": "Saint Gabriel",
+    "Shelf": "C3",
+    "Section": "Yearbooks"
+  },
+  {
+    "Book ID": "C316",
+    "Title": "Saint Gabriel 2024-2025",
+    "Author": "Saint Gabriel",
+    "Shelf": "C3",
+    "Section": "Yearbooks"
+  },
+  {
+    "Book ID": "C317",
+    "Title": "Saint Gabriel 2025-2026",
+    "Author": "Saint Gabriel",
+    "Shelf": "C3",
+    "Section": "Yearbooks"
+  },
+  {
+    "Book ID": "C201",
+    "Title": "San Francisco Giants 2024 Official Yearbook",
+    "Author": "Giants",
+    "Shelf": "C2",
+    "Section": "Magazines"
+  },
+  {
+    "Book ID": "C202",
+    "Title": "Person of the Year - Taylor Swift",
+    "Author": "Time",
+    "Shelf": "C2",
+    "Section": "Magazines"
+  },
+  {
+    "Book ID": "C203",
+    "Title": "Special People Edition - Taylor Swift",
+    "Author": "People",
+    "Shelf": "C2",
+    "Section": "Magazines"
+  },
+  {
+    "Book ID": "C204",
+    "Title": "Time Special Edition - Taylor Swift: A Magical Era",
+    "Author": "Time",
+    "Shelf": "C2",
+    "Section": "Magazines"
+  },
+  {
+    "Book ID": "C205",
+    "Title": "US Weekly Mean Girls - The Unofficial Yearbook",
+    "Author": "US Weekly",
+    "Shelf": "C2",
+    "Section": "Magazines"
+  },
+  {
+    "Book ID": "C206",
+    "Title": "Dreaming of Horses",
+    "Author": "Nicola Jane Swinney, Bob Langrish",
+    "Shelf": "C2",
+    "Section": "Magazines"
+  },
+  {
+    "Book ID": "C207",
+    "Title": "The Complete Book of Cats",
+    "Author": "Rosie Pilbeam",
+    "Shelf": "C2",
+    "Section": "Cat Books"
+  },
+  {
+    "Book ID": "C208",
+    "Title": "Time Special Edition - Cats: The Feline Life",
+    "Author": "Time",
+    "Shelf": "C2",
+    "Section": "Cat Books"
+  },
+  {
+    "Book ID": "C209",
+    "Title": "The Secret Life of Cats",
+    "Author": "National Geographic",
+    "Shelf": "C2",
+    "Section": "Cats Books"
+  },
+  {
+    "Book ID": "C210",
+    "Title": "Special PawPrint Edition: Cats Mysteries Revealed",
+    "Author": "PawPrint ",
+    "Shelf": "C2",
+    "Section": "Cat Books"
+  },
+  {
+    "Book ID": "C211",
+    "Title": "Here Kitty",
+    "Author": "Nicola Jane Swinney",
+    "Shelf": "C2",
+    "Section": "Cat Books"
+  },
+  {
+    "Book ID": "C212",
+    "Title": "Chomp!",
+    "Author": "National Geographic",
+    "Shelf": "C2",
+    "Section": "Cat Books"
+  },
+  {
+    "Book ID": "C213",
+    "Title": "Life - Cats: Companions In Life",
+    "Author": "Life",
+    "Shelf": "C2",
+    "Section": "Cat Books"
+  },
+  {
+    "Book ID": "C214",
+    "Title": "The Everything Book of Cats and Kittens",
+    "Author": "Andrea Mills",
+    "Shelf": "C2",
+    "Section": "Cat Books"
+  },
+  {
+    "Book ID": "C215",
+    "Title": "Little Kids First Big Book of Birds",
+    "Author": "National Geographic: Kids",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C216",
+    "Title": "The Classic Treasury of Aesop's Fables ",
+    "Author": "Aesop, Daily",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C217",
+    "Title": "I Am A Tiger",
+    "Author": "Karl Newson",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C218",
+    "Title": "Scout Moore Junior Ranger Grand Canyon",
+    "Author": "Theresa Howell, Jeffrey Ebbeler",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C219",
+    "Title": "Moonshot",
+    "Author": "Michael Collins",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C220",
+    "Title": "Fish Are Fintastic",
+    "Author": "Wilbur Thomas",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C221",
+    "Title": "Hiawatha",
+    "Author": "Henry Wadsworth Longfellow, Jeffers",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C222",
+    "Title": "Oh, The Places You'll Go!",
+    "Author": "Dr. Seuss",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C223",
+    "Title": "Green Eggs and Ham",
+    "Author": "Dr. Seuss",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C224",
+    "Title": "Royal Dogs",
+    "Author": "Aubre Andrus",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C225",
+    "Title": "Joan Procter, Dragon Doctor",
+    "Author": "Patricia Valdez, Felicita Sala",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C226",
+    "Title": "Build Me a Home ",
+    "Author": "Emily Bannister an dAna Sarfelippo",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C227",
+    "Title": "The Queen's Hat",
+    "Author": "Steve Antony",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C228",
+    "Title": "The Elephant Dentist",
+    "Author": "Elizabeth-Jade M. Beattle, Amanda J. Beattle",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C229",
+    "Title": "Hattie & Hudson",
+    "Author": "Chris Van Dusen",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C230",
+    "Title": "Astro: The Steller Sea Lion",
+    "Author": "Harvey, Bersani",
+    "Shelf": "C2",
+    "Section": "Children's Books"
+  },
+  {
+    "Book ID": "C231",
+    "Title": "Eyes on The Shore",
+    "Author": "Maestraneza EP",
+    "Shelf": "C2",
+    "Section": "Records"
+  },
+  {
+    "Book ID": "C232",
+    "Title": "Le Disque D'or",
+    "Author": "Jacques Brel",
+    "Shelf": "C2",
+    "Section": "Records"
+  },
+  {
+    "Book ID": "C233",
+    "Title": "Born to Blow",
+    "Author": "Johnnyy Reno and His Sax Maniacs",
+    "Shelf": "C2",
+    "Section": "Records"
+  },
+  {
+    "Book ID": "C234",
+    "Title": "Endless Summer",
+    "Author": "Beach Boys",
+    "Shelf": "C2",
+    "Section": "Records"
+  },
+  {
+    "Book ID": "C235",
+    "Title": "10 Shots: Hamilton",
+    "Author": "Lin-Manuel Miranda",
+    "Shelf": "C2",
+    "Section": "Records"
+  },
+  {
+    "Book ID": "C236",
+    "Title": "Thriller",
+    "Author": "Michael Jackson",
+    "Shelf": "C2",
+    "Section": "Records"
+  },
+  {
+    "Book ID": "C237",
+    "Title": "America Heart",
+    "Author": "Benson Boone",
+    "Shelf": "C2",
+    "Section": "Records"
+  },
+  {
+    "Book ID": "C238",
+    "Title": "Fearless",
+    "Author": "Taylor Swift",
+    "Shelf": "C2",
+    "Section": "Records"
+  },
+  {
+    "Book ID": "C239",
+    "Title": "Lover",
+    "Author": "Taylor Swift",
+    "Shelf": "C2",
+    "Section": "Records"
+  },
+  {
+    "Book ID": "C240",
+    "Title": "1989",
+    "Author": "Taylor Swift",
+    "Shelf": "C2",
+    "Section": "Records"
+  },
+  {
+    "Book ID": "C241",
+    "Title": "The Life of a Showgirl",
+    "Author": "Taylor Swift",
+    "Shelf": "C2",
+    "Section": "Records"
+  },
+  {
+    "Book ID": "C242",
+    "Title": "Red",
+    "Author": "Taylor Swift",
+    "Shelf": "C2",
+    "Section": "Records"
+  }
+]
