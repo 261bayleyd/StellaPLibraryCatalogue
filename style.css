@@ -2,3 +2,19 @@ html {
     height: 100%;
     width: 100%;
   }
+#titlerow{
+    font-style: 'bold';
+    font-weight: 700;
+    /* display: flex;
+    justify-content: space-between;
+    */
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+  }
+  .row{
+    font-weight: 500;
+    /* display: flex;
+    justify-content: space-between; */
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+  }
